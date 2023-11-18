@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container
+{
+    margin: 110px auto;
+    margin-left: 90px;
+    text-align: center;
+}
+.container h2{
+    margin: 18px;
+   
+}
+.container table td,.container table th{
+    padding: 10px;
+}
